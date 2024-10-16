@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hashmi-mars
+- 👋 Hi, I am a Cloud Engineer and lives in Melbourne, Australia
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning AWS lambda
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Python & AWS projects
 - 📫 How to reach me hashmi.mars@gmail.com
 
 
