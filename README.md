@@ -1,7 +1,8 @@
 - 👋 Hi, I am a Cloud Engineer and lives in Melbourne, Australia
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning AWS lambda
-- 💞️ I’m looking to collaborate on Python & AWS projects![logo] (https://github.com/hashmi-mars/Hashmi-Muhammad/blob/main/github.png)
+- 💞️ I’m looking to collaborate on Python & AWS projects
+![logo](https://github.com/hashmi-mars/Hashmi-Muhammad/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Hashmi Muhammad</h1>
 <h3 align="center">A passionate Data Engineer from Australia</h3>
 
